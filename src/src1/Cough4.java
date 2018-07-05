@@ -2,30 +2,25 @@ package src1;
 
 public class Cough4 {
 
-	public static void main(String args[])
-	{
+	public static void main(String args[]) {
 		cough(3);
+		sneeze(2);
 	}
 
-	public static void cough(int n)
-	{
+	public static void cough(int n) {
 		say("cough", n);
 
 	}
 
-	public static void say(String word, int n)
-	{
-		for (int i = 0; i < n; i++)
-		{
+	public static void say(String word, int n) {
+		for (int i = 0; i < n; i++) {
 			System.out.print(word + "\n");
 		}
 
 	}
 
-	public static void sneeze(int n)
-	{
+	public static void sneeze(int n) {
 		say("achoo!", n);
 
 	}
 }
-
