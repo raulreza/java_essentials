@@ -6,6 +6,7 @@ public class Switch {
 
 public static void main(String args[])
 {
+	System.out.print("Enter a Y/y or N/n character: ");
 	char c = Input.get_char();
 	switch (c)
 	{
