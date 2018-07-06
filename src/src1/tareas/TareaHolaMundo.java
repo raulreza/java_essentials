@@ -5,11 +5,11 @@ import libs.Input;
 public class TareaHolaMundo {
 
 	public static void main(String[] args) {
-		imprimeloalmundo();
+		imprimeloAlMundo();
 
 	}
 
-	private static void imprimeloalmundo() {
+	public static void imprimeloAlMundo() {
 		Input.print("hello, world");
 		
 	}

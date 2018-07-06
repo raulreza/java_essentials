@@ -4,3 +4,20 @@ $ ./minimo_monedas
 Hola!  Cuanto cambio te debo?O hai!
 0.41
 4
+
+25c
+10c
+5c
+1c
+
+1 - 25c
+16c
+1 - 10c
+6c
+1 - 5c
+1c
+1 - 1c
+0
+
+dividir
+modulo
